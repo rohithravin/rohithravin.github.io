@@ -1,9 +1,9 @@
 ---
 title: "Head Graduate Teaching Assistant"
 collection: teaching
-type: "Graduate Course"
+type: "Artifical Intelligence (COMS W4701)"
 permalink: /teaching/2021-fall-teaching-1
-venue: "Columbia University, Computer Science Department"
+venue: "Columbia University"
 date: 2021-01-01
 semester: "Fall 2021"
 location: "New York City, NY, USA"
