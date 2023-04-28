@@ -5,6 +5,7 @@ type: "Graduate Course"
 permalink: /teaching/2021-fall-teaching-1
 venue: "Columbia University, Computer Science Department"
 date: 2021-01-01
+semester: "Fall 2021"
 location: "New York City, NY, USA"
 ---
 
