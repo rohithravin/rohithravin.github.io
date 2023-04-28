@@ -4,7 +4,7 @@ collection: teaching
 type: "Artifical Intelligence (COMS W4701)"
 permalink: /teaching/2021-fall-teaching-1
 venue: "Columbia University"
-date: 2021-01-01
+date: 2021-09-01
 semester: "Fall 2021"
 location: "New York City, NY, USA"
 ---
