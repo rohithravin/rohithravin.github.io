@@ -2,10 +2,10 @@
 title: "Head Graduate Teaching Assistant"
 collection: teaching
 type: "Artifical Intelligence (COMS W4701)"
-permalink: /teaching/2022-spring-teaching-2
+permalink: /teaching/2022-fall-teaching-2
 venue: "Columbia University"
 date: 2022-01-01
-semester: "Spring 2022"
+semester: "Fall 2022"
 location: "New York City, NY, USA"
 ---
 
