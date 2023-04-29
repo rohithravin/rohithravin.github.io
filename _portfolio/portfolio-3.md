@@ -1,6 +1,6 @@
 ---
 title: "An Analysis of Predictive Identification for Major Depressive Disorder Using Transfer Learning 🧠 🩻"
-excerpt: "Problems such as identifying Schizophrenia and Alzheimer’s have shown great results when using neural net- works. In this paper, we analyze the results of using transfer learning to identify MDD in MRI scans. <br/><br/><img src='/images/dl-mri.png'>"
+excerpt: "Problems such as identifying Schizophrenia and Alzheimer’s have shown great results when using neural networks. In this paper, we analyze the results of using transfer learning to identify MDD in MRI scans. <br/><br/><img src='/images/dl-mri.png'>"
 collection: portfolio
 ---
 
