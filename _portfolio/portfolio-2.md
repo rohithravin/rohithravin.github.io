@@ -8,7 +8,7 @@ The field of robotics has gone through rapid advancements due to advances in com
 
 The goal of this project is to create a system that utilizes a self-evaluation policy to determine whether a task has been completed, and self-identify errors made during task execution without a human evaluator. Our idea is to use visual language models (VLM) and large-language models (LLM) to self-evaluate action completion during each step of the task. This will allow the robot to self-evaluate whether it is correctly executing a task as well as notice any errors it makes as it completes each step of a task sequence. 
 
-📝 [Report Link](https://rohithravin.github.io/files/zero-shot-learning.pdf)
+[Report Link](https://rohithravin.github.io/files/zero-shot-learning.pdf) 📝
 
 
 <img src='/images/zero-shot-fig1.png'>
