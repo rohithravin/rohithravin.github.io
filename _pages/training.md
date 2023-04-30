@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Training"
 permalink: /training/
 author_profile: true
 redirect_from:
@@ -11,50 +11,16 @@ redirect_from:
 
 Education
 ======
-HALLO
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.S. in Computer Science, *Columbia University, 2022*
+  - Concentration: Machine Learning
+  - Advisor: Professor Ansaf Salleb-Aouissi
+* B.S. in Computer Science, Data Science, Applied Statistics, *Purdue University, 2020*
+  - Specialization: Machine Intelligence
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+Online Certificates
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Machine Learning, Stanford University, Coursera, [Certificate](https://coursera.org/share/79eb4bd4ff1a2ed194e89a4a499a35b1)
+* AI for Medical Diagnosis, DeepLearning.ai, Coursera, [Certificate](https://coursera.org/share/8d8abbadff7bbd375e839449cdbc0942)
+* DeepLearning.AI TensorFlow Developer Professional Certificate, DeepLearning.ai, Coursera, [Certificate](https://coursera.org/share/46db67a41f20926ba834dfbc33bcbdf5)
+* Google Data Analyst Professional Certificate Specialization, Google, Coursera, [Certificate](https://coursera.org/share/13950fff37c3767f2abc7c4d46c65fec)
