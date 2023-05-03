@@ -15,6 +15,8 @@ redirect_from:
 * B.S. in Computer Science, Data Science, Applied Statistics, *Purdue University, 2020*
   - Specialization: Machine Intelligence
 
+## Nanodegrees
+* **Computer Vision**, Udacity, [Certificate](confirm.udacity.com/e/a9ae0166-d5b2-11ed-a3fb-ebac03cc8044)
 
 ## Online Certificates
 * **Machine Learning**, Stanford University, Coursera, [Certificate](https://coursera.org/share/79eb4bd4ff1a2ed194e89a4a499a35b1)
