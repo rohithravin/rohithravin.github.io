@@ -1,11 +1,10 @@
 ---
 title: "Facial Keypoint Detection 😀"
-excerpt: "In this project, I devleop a small and predictive CNN model that accurately predicts the 15 keypoints of an image with a face. The dataset from a from popular Kaggle competition and I preprocessing the data using various data augmentation methods, and train a CNN model that uses a LR scheduler. <br/><br/><img src='/images/facial.png'>"
+excerpt: "In this project, I devleop a small CNN model that accurately predicts the 15 facial keypoints of an face. The dataset is from a popular Kaggle competition. I preprocess the data using various data augmentation methods, and train a CNN model that uses a LR scheduler. <br/><br/><img src='/images/facial.png'>"
 collection: portfolio
 ---
 
 [Github Repo](https://github.com/rohithravin/facial-keypoint-detection) 📝
-
 
 This project focuses on using computer vision to detect facial keypoints of a person from an image. The corresponding Kaggle Competition is called [Facial Keypoint Detections](https://www.kaggle.com/competitions/facial-keypoints-detection/overview). I develop a CNN model that can detect the facial keypoints accurately. 
 
