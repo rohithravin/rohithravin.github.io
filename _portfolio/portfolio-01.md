@@ -1,6 +1,6 @@
 ---
 title: "Facial Keypoint Detection 😀"
-excerpt: "In this project, I devleop a small and predictive CNN model that accurately predicts the 15 keypoints of an image with a face.  <br/><br/><img src='/images/facial.png'>"
+excerpt: "In this project, I devleop a small and predictive CNN model that accurately predicts the 15 keypoints of an image with a face. The dataset from a from popular Kaggle competition and I preprocessing the data using various data augmentation methods, and train a CNN model that uses a LR scheduler. <br/><br/><img src='/images/facial.png'>"
 collection: portfolio
 ---
 
