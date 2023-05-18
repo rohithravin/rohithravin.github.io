@@ -10,7 +10,7 @@ collection: portfolio
 This project focuses on using computer vision to detect facial keypoints of a person from an image. The corresponding Kaggle Competition is called [Facial Keypoint Detections](https://www.kaggle.com/competitions/facial-keypoints-detection/overview). I develop a CNN model that can detect the facial keypoints accurately. 
 
 
-##Important Files
+## Important Files
 
 - `load-analyze-dataset.ipynb`: Explores, downloads, views, and creates the dataset for model training. 
 - `train-models.ipynb`: Train the CNN model and view loss plot and model performance on test
