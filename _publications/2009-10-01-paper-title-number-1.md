@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "Predicting Glaucoma Progression to Surgery with Artificial Intelligence Survival Models"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+permalink: /publication/predict-glaucoma-progression-survival-models
+excerpt: 'Prior artificial intelligence (AI) models for predicting glaucoma progression have used a traditional classification approach that does not consider the longitudinal nature of patients' follow-up. In the present study, we developed survival-based AI models for predicting glaucoma patients’ progression to surgery, comparing performance among regression-, tree-, and deep-learning-based approaches.'
 date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+venue: 'Ophthalmology Science'
+paperurl: 'https://www.ophthalmologyscience.org/article/S2666-9145(23)00068-4/fulltext'
+citation: 'S. Tao, **R. Ravindranath**, and S. Y. Wang, ‘Predicting Glaucoma Progression to Surgery with Artificial Intelligence Survival Models’, Ophthalmology Science, p. 100336, 2023.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+Prior artificial intelligence (AI) models for predicting glaucoma progression have used a traditional classification approach that does not consider the longitudinal nature of patients' follow-up. In the present study, we developed survival-based AI models for predicting glaucoma patients’ progression to surgery, comparing performance among regression-, tree-, and deep-learning-based approaches.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://www.ophthalmologyscience.org/action/showPdf?pii=S2666-9145%2823%2900068-4)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: S. Tao, **R. Ravindranath**, and S. Y. Wang, ‘Predicting Glaucoma Progression to Surgery with Artificial Intelligence Survival Models’, Ophthalmology Science, p. 100336, 2023.
