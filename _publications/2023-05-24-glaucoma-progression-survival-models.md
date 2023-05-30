@@ -12,4 +12,4 @@ In the present study, we developed survival-based AI models for predicting glauc
 
 [Download paper here](https://www.ophthalmologyscience.org/article/S2666-9145(23)00068-4/fulltext) 📝
 
-Recommended citation: S. Tao, **R. Ravindranath**, and S. Y. Wang, Predicting Glaucoma Progression to Surgery with Artificial Intelligence Survival Models",Ophthalmology Science, p. 100336, 2023."
+Recommended Citation: "S. Tao, R. Ravindranath, and S. Y. Wang, Predicting Glaucoma Progression to Surgery with Artificial Intelligence Survival Models",Ophthalmology Science, p. 100336, 2023."
