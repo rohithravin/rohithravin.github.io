@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 ## Education
-* M.S. in Computer Science, *Columbia University, 2022*
+* M.S. in Computer Science, *Columbia University, 2023*
   - Concentration: Machine Learning
 * B.S. in Computer Science, Data Science, Applied Statistics, *Purdue University, 2020*
   - Specialization: Machine Intelligence
