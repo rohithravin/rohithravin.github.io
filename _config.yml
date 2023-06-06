@@ -86,7 +86,7 @@ author:
   location         : "San Francisco, CA, USA"
   employer         : "Stanford Medicine"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : # "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=vi2U2JwAAAAJ&hl=en"
   email            : "rohithr@stanford.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
