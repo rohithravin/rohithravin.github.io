@@ -1,5 +1,5 @@
 ---
-title: "COVID-19 Dashboard 😀"
+title: "COVID-19 Dashboard 🤒"
 excerpt: "In this project, I create an analytics dashboard to track COVID-19 globally and nationally using differenct filters. The dashboard continously gathers data hourly to provide real-time analytics. Analytics can be stratified by race, gender, country, state and many more! <br/><br/><img src='/images/covid.png'>"
 collection: portfolio
 ---
@@ -23,12 +23,13 @@ The World data is aquired from the Our World In Data which relies on the [Europe
 
 
 ## California Dashboard
-This dashboard is specific to the state of California. Based on your zipcode, the corresponding data will be curated to visualized for you to view. You can also different visualizations of the state data as well. Below is the youtube video demo showcasing the dashboard.
+This dashboard is specific to the state of California. Based on your zipcode, the corresponding data will be curated to visualized for you to view. You can also different visualizations of the state data as well. Below is the youtube video demo showcasing the dashboard. Click on the video below for a little demo!  
 
 [![California Dashboard](http://img.youtube.com/vi/zRc0mbsVl8Y/0.jpg)](http://www.youtube.com/watch?v=zRc0mbsVl8Y "California Dashboard")
 
 ## Wolrd Dashboard
-This dashboard is specific to the world. Data is currated so you can see the top countries affected and toggle through the plots. You can also search specfic countries to view data specific to that country.
+This dashboard is specific to the world. Data is currated so you can see the top countries affected and toggle through the plots. You can also search specfic countries to view data specific to that country. Click on the video below for a little demo!  
+
 
 [![World Dashboard](http://img.youtube.com/vi/J1ynNYSbHQs/0.jpg)](http://www.youtube.com/watch?v=J1ynNYSbHQs "World Dashboard")
 

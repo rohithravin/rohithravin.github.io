@@ -1,5 +1,5 @@
 ---
-title: "Self-Evaluation Using Zero-shot Learning 🤖"
+title: "Self-Evaluation Using Zero-Shot Learning 🤖"
 excerpt: "The goal of this project is to create a system that utilizes a self-evaluation policy to determine whether a task has been completed, and self-identify errors made during task execution without a human evaluator. <br/><br/><img src='/images/robot.png'>"
 collection: portfolio
 ---
